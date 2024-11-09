@@ -33,8 +33,4 @@ Welcome to the Hex Software Data Science Internship repository! This internship 
 
 
 
-If you have any questions or need further assistance, feel free to reach out!
 
----
-
-Let me know if you need any adjustments or additional information! 🚀📂
