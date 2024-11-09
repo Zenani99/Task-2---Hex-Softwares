@@ -31,9 +31,7 @@ Welcome to the Hex Software Data Science Internship repository! This internship 
 **Outcome**: 
 - You will learn how to analyze real-world datasets, visualize data insights, and present your findings in an engaging and informative way.
 
----
 
-Feel free to explore each project's notebook for detailed explanations, code, and visualizations. This hands-on experience is designed to enhance your data science skills and prepare you for future challenges in the field. Happy learning! 🎓📊
 
 If you have any questions or need further assistance, feel free to reach out!
 
